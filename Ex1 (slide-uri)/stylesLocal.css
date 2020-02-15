@@ -1,0 +1,23 @@
+div{
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    height: 100px;
+    color: steelblue;
+
+}
+
+.card{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 20%;
+    margin-top: 4%;
+    height: 500px;
+    width: 20%;
+}
+button{
+    width: 20%;
+    height: 10%;
+    align-self: center;
+    margin: 10%;
+}
